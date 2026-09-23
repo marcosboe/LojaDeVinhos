@@ -36,6 +36,12 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# files breaking expo snack
+.claude/
+AGENTS.md
+CLAUDE.md
+package-lock.json
+
 # generated native folders
 /ios
 /android
